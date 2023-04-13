@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lecture8Exer</string>
+    <string name="Start">Start</string>
+    <string name="Pause">Pause</string>
+    <string name="reset">Reset</string>
+
+</resources>
